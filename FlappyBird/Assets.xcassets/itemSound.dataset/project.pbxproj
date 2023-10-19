@@ -14,9 +14,6 @@
 		467FF2032AD80B5C007F6569 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 467FF2012AD80B5C007F6569 /* LaunchScreen.storyboard */; };
 		467FF20B2AD80FE2007F6569 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467FF20A2AD80FE2007F6569 /* ViewController.swift */; };
 		467FF2132AD81309007F6569 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467FF2122AD81308007F6569 /* GameScene.swift */; };
-		467FF2152AE155DD007F6569 /* itemSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 467FF2142AE155DC007F6569 /* itemSound.mp3 */; };
-		467FF2172AE16F05007F6569 /* flappyBgm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 467FF2162AE16F05007F6569 /* flappyBgm.mp3 */; };
-		467FF2192AE16F33007F6569 /* attackSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 467FF2182AE16F33007F6569 /* attackSound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,9 +26,6 @@
 		467FF2042AD80B5C007F6569 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		467FF20A2AD80FE2007F6569 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		467FF2122AD81308007F6569 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
-		467FF2142AE155DC007F6569 /* itemSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = itemSound.mp3; sourceTree = "<group>"; };
-		467FF2162AE16F05007F6569 /* flappyBgm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = flappyBgm.mp3; sourceTree = "<group>"; };
-		467FF2182AE16F33007F6569 /* attackSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = attackSound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,9 +61,6 @@
 				467FF1F62AD80B5A007F6569 /* AppDelegate.swift */,
 				467FF1F82AD80B5A007F6569 /* SceneDelegate.swift */,
 				467FF2122AD81308007F6569 /* GameScene.swift */,
-				467FF2142AE155DC007F6569 /* itemSound.mp3 */,
-				467FF2162AE16F05007F6569 /* flappyBgm.mp3 */,
-				467FF2182AE16F33007F6569 /* attackSound.mp3 */,
 				467FF20A2AD80FE2007F6569 /* ViewController.swift */,
 				467FF1FC2AD80B5A007F6569 /* Main.storyboard */,
 				467FF1FF2AD80B5C007F6569 /* Assets.xcassets */,
@@ -139,10 +130,7 @@
 			files = (
 				467FF2032AD80B5C007F6569 /* LaunchScreen.storyboard in Resources */,
 				467FF2002AD80B5C007F6569 /* Assets.xcassets in Resources */,
-				467FF2192AE16F33007F6569 /* attackSound.mp3 in Resources */,
 				467FF1FE2AD80B5A007F6569 /* Main.storyboard in Resources */,
-				467FF2152AE155DD007F6569 /* itemSound.mp3 in Resources */,
-				467FF2172AE16F05007F6569 /* flappyBgm.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
